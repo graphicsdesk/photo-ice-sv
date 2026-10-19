@@ -7,12 +7,171 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/G6LM3IJBC5AN7BB42Y2RQLSKC4.jpg",
+              "caption": "",
+              "credit": "Georgia Paulos"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VNEB623U3RBJTA5C4GHUIL5Y2I.jpg",
+              "caption": "",
+              "credit": "Tianqi Wang"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OZPO4CF55BGENC2X7HWE5KAPCY.jpg",
+              "caption": "",
+              "credit": "Conor Cavens"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2NQMSOX42FFDLNGLFIIRA2E7FA.jpg",
+              "caption": "",
+              "credit": "Megan Morey"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RGJQHYYKFVEJPMSG5A6D5OBQJI.jpg",
+              "caption": "",
+              "credit": "Tianqi Wang"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LGBPH5XP45BYND256EPQO7FSIU.jpg",
+              "caption": "",
+              "credit": "Georgia Paulos"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HEKEP6YREFHGBK2U3N5TVAOYFE.jpg",
+              "caption": "",
+              "credit": "Conor Cavens"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/S4SMV7HSE5C4HGGJCQDNBLMVOM.jpg",
+              "caption": "",
+              "credit": "Megan Morey"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2LZZBAFCCZGSVJCPAUCCARTNDY.jpg",
+              "caption": "",
+              "credit": "Georgia Paulos"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YPYYOZNWCBE2RFBDNSMNGASA4U.jpg",
+              "caption": "",
+              "credit": "Georgia Paulos"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YVE6LKQTI5COFDDKZK5EVCFDG4.jpg",
+              "caption": "",
+              "credit": "Eliza Lamster"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RZ5EK5RFNZBMPPU3GYRUXQGJOY.jpg",
+              "caption": "",
+              "credit": "Megan Morey"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/O5GTNSTPQ5F5LB7PJMOHUZ6ORE.jpg",
+              "caption": "",
+              "credit": "Conor Cavens"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/I3F7KBHDV5A73OQ6YLQ3FLNLBY.jpg",
+              "caption": "",
+              "credit": "Conor Cavens"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/X7W3WWA65NE6ZOEP4GOEBOR4IY.jpg",
+              "caption": "",
+              "credit": "Megan Morey"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GXTWQANLMBEQBH5UBFTZNFZUPY.jpg",
+              "caption": "",
+              "credit": "Eliza Lamster"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Eliza Lamster can be contacted at </i><a href=\"mailto:eliza.lamster@columbiaspectator.com\"><i>eliza.lamster@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "In Focus: Thousands rally against ICE in wake of Marble Hill shooting",
+        "dek": "TKTK",
+        "date": "TKTK",
+        "byline": "By Eliza Lamster",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AISBZAASBZAA3DWGVYX7QBSSFA.jpg",
+        "cover_caption": "TKTK Georgia Paulos / Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1aKJiRbQy8m_p8QxZqBcgVQfbsqP-56OSBbjw880xAKg/edit?tab=t.0"
       }
     }
   }
