@@ -7,12 +7,114 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Settling into the second half of the fall semester, students tackled midterm stress and fall break fun. These are moments on and around Columbia’s campus from the past two weeks, as captured by Spectator’s photojournalists."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FALW3VA6RBFXRAERSVTLLXZNL4.jpg",
+              "caption": "The women’s swimming and diving team opened the 2026-27 season with a 180-115 win against New York University on Oct. 30. Columbia placed first in 13 of the 16 events, including both of the diving competitions.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OP4WIFBAV5HVDECQDXZPHZNXWY.jpg",
+              "caption": "The Morningside Heights Community Coalition brought together community members, students, faculty, and local politicians for its sixth “Open the Gates” rally on Oct. 29. The MHCC has called for the University to restore public access to College Walk, which has been closed to nonaffiliates since April 2024, barring a brief period during summer 2024.",
+              "credit": "Jacob Wasserman."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KM2T2XRFVRCQJANXL37PWI6JFI.jpg",
+              "caption": "Men’s soccer won 2-0 over Hofstra University on Oct. 27. However, the Lions finished the season last in the Ivy League, following a 1-1 draw with the University of Pennsylvania.",
+              "credit": "Georgia Paulos."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/35QOC2J4WBDZDEZWC4X7OAC7MA.jpg",
+              "caption": "New York’s five boroughs transformed into the iconic New York City Marathon course on Nov. 1, with this year bringing 61,146 finishers.",
+              "credit": "Conor Cavens."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RG5JDD5PUVGGRCAO2FPQYK25RQ.jpg",
+              "caption": "The Belfer Center at the 92nd Street Y hosted “Building Community at the 21st-Century University” on Thursday featuring University President Jennifer Mnookin and Vanderbilt University Chancellor Daniel Diermeier. The conversation was moderated by MS NOW’s Jonathan Lemire, CC ’01.",
+              "credit": "Conor Cavens."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D2YPXP6YURB6DMWYUWJTEJZKYA.jpg",
+              "caption": "Democrats won big on Election Day, flipping both chambers of Congress with huge gains. Students relayed their optimism following the election in interviews with Spectator.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MEPA4VM2V5CFTBJPMKS2PG2ICI.jpg",
+              "caption": "Mahmoud Khalil, SIPA ’24, made his first return to campus on Oct. 27 since being detained by Immigration and Customs Enforcement on March 8, 2025. Khalil promoted his memoir “No Land to Stand On: Notes from Detention” at an event hosted by the Center for Palestine Studies and the Simon and June Li Center for Global Journalism.",
+              "credit": "Conor Cavens."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CL4CNJWX3FBWDJPWBZ7DSMT3H4.jpg",
+              "caption": "The West Harlem Arts Alliance opened its first official space at 3581 Broadway on Oct. 22. The space is a step toward fulfilling the University’s Community Benefits Agreement, a 50-page document from 2009 that outlines Columbia’s commitment to providing $170 million in benefits to West Harlem ahead of its construction of the Manhattanville campus.",
+              "credit": "Jacob Wasserman."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AAGM56YOAFEALODVE7A3CWPINU.jpg",
+              "caption": "University President Jennifer Mnookin moderated a panel with Columbia faculty members on Oct. 28 discussing why universities matter, marking the first Columbia Colloquium.",
+              "credit": "Conor Cavens."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OTBEFLBQYRFXFKJH2TTF6C7LH4.jpg",
+              "caption": "Students lined up for bites from local restaurants for Spectator and Columbia College Student Council’s fall 2026 Free Food Expo on Saturday. This year’s vendor lineup included Oren’s Coffee, Matto Espresso, Chargel, LELECHA, Sipsteria, Raising Cane’s Chicken Fingers, Red Bull, Harlem Shake, Sugar Hill Creamery, Claire’s Kitchen Cafe, and General Mills’ GHOST Protein Bars.",
+              "credit": "Conor Cavens."
+            }
+          }
+        ],
+        "headline": "Week of Oct. 26 and Nov. 2 in photos",
+        "dek": "Autumn chills, elections, campus demonstrations, and more.",
+        "date": "November 9th, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>",
+        "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PIU7GDZBXZF7PNWBAM2LSOY2XY.jpg",
+        "cover_caption": "Students soaking up a sunny day on Low Steps.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1QPxely9n99w2fKaA4lmD1EfNYEs6z43W8YODSguQTOs/edit?tab=t.0"
       }
     }
   }
