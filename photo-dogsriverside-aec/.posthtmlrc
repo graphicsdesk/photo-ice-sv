@@ -7,12 +7,143 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Riverside Park Conservancy held its third annual Riverside Park Pup Halloween Parade on Oct. 24. Costumed contestants and their owners gathered near 96th Street and paraded to Ellington in the Park at 106th Street, where judges announced the best-dressed pups."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/X5AIE65T2NGEZO63UIWDPTBZ2Y.jpg",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VWA5NGASRVBZHHWYFLSU2YEZ5Y.jpg",
+              "caption": "A golden retriever recreated Kylie Jenner’s recent Victoria’s Secret Fashion Show look, in a brown wig, sparkly Fantasy Bra, and white feather wings.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QV5HOEDOWRESNHBV4ER24TK3PE.jpg",
+              "caption": "Two dog owners in matching garden-themed costumes hold up their cChihuahua, who dressed as a bouquet of sunflowers.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/EJML27UZ7RGVDICXUHYIFRFCT4.jpg",
+              "caption": "A Knicks fan leans down to pet her pitbull, who showed off its team spirit in a matching blue-and-orange jersey and plaid bandana.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YTOE72UTBFFH3LYOMQHWAM4SNI.jpg",
+              "caption": "Two Australian shepherds dressed up as Mario and Princess Peach alongside their Super Mario-themed family, including Bowser, Donkey Kong, and a baby Toad holding a Super Star.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GW4KXLZD6BD4NOOARHLOIW6OZI.jpg",
+              "caption": "A white pup dressed as a carrot rode alongside a baby in a bunny costume in a wagon transformed into a garden patch, covered in green moss and dotted with tiny carrots.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BMC42SDRSNBNVCDWOHE2XVOQAM.jpg",
+              "caption": "Riverside Park Conservancy President Merritt Birnbaum, dressed in an inflatable corgi costume, addressed the contestants to announce the contest results.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4VI6AAT5JFAARH4OC3OZEVUKKY.jpg",
+              "caption": "Milo, the small pup category winner, peeks out from behind a crystal ball as a fortune teller. The pup rode in a wagon transformed into a mystic’s booth with a zodiac tablecloth, potion bottles, a skull, and a sign advertising tarot readings.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WL66FWAUQ5CP3M4NNMLJ4KTXZA.jpg",
+              "caption": "Dressed as a Trojan horse, the big pup category winner takes a curious look at the gold paw print trophy as its owners accept the award on stage.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CFKGQXKZHNCB3PDJTV6GKTSA3Y.jpg",
+              "caption": "The group category winners recreated Gustav Klimt’s “The Kiss,” with the couple in gold patterned outfits, their toddler in a paint-splattered apron, and their dog as a paint palette.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YOAXS4TGGVHEZNDRYG6XDSCGXQ.jpg",
+              "caption": "The dog duo category winners, a troupe of clowns in rainbow wigs and polka-dot bow ties, show off their star: a curly-haired pup in a matching clown suit, rainbow wig, and sunglasses.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/T5FP2QTYFFE5JCPVZLVJIPR5S4.jpg",
+              "caption": "The best in show winners played on the joke that Danish butter cookie tins always end up holding sewing supplies. The owners dressed as the cookies, while their dogs dressed up as what’s really inside: a pincushion and a tape measure.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "text",
+            "value": "Photo Editor Audrea Chen<i> can be contacted at </i><a href=\"mailto:audrea.chen@columbiaspectator.com\"><i>audrea.chen@columbiaspectator.com</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "Staff Photographer Ming Yuan <i>can be contacted at ming.yuan@columbiaspectator.com.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "In Focus: Dressed-up pups take over Riverside Park for Halloween",
+        "dek": "Riverside Park hosted its annual Halloween Dog Parade on Oct. 24, celebrating the best-dressed dogs of the season.",
+        "date": "November 10th, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/ming-yuan/\">Ming Yuan</a>",
+        "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIH3NYWLGZDJ3K6L646MCVXATE.jpg",
+        "cover_caption": "A pup dressed as a cab driver steers her iconic yellow New York City taxi, with her name, Madison, on the license plate.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Qd4pZ7ze84owTchQ4s5ipxOnFN6NWbPA8asW7k2cmDY/edit?tab=t.0"
       }
     }
   }

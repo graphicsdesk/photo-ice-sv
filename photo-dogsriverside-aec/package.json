@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "photo-dogsriverside-aec",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -32,8 +32,8 @@
   "spectate": {
     "USE_NEWS_NAV": true,
     "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1Qd4pZ7ze84owTchQ4s5ipxOnFN6NWbPA8asW7k2cmDY/edit?tab=t.0"
   }
 }
